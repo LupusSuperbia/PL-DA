@@ -39,6 +39,6 @@ En un mercado financiero tan volatil como el de las criptomonedas, contar con he
 
 ## Resultados
 
-<li>Identifique Patrones que suelen repetirse a lo largo del tiempo o tambien como las "masas" hacen que el valor aumente tanto como paso en 2021 con el bitcoin. Ya que la gente estan super interesada en este mundo de las criptos todos entraron y todos empezaron a invertir, pero podemos hacer un analisis tecnicos con las diferentes metricas, kpis seleccionados donde podemos mas o menos predecir si el mercado esta en bajista o alcista </li>
+<li>Identifique Patrones que suelen repetirse a lo largo del tiempo o tambien como las "masas" hacen que el valor aumente tanto como paso en 2021 con el bitcoin. Ya que la gente estaba super interesada en este mundo de las criptos todos entraron y todos empezaron a invertir, pero podemos hacer un analisis tecnicos con las diferentes metricas, kpis seleccionados donde podemos mas o menos predecir si el mercado esta en bajista o alcista </li>
 
 ## Muchas Gracias
