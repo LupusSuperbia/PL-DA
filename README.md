@@ -16,7 +16,7 @@ El objetivo de este proyecto es poder entender, examinar  las tendencias y compo
 ## <h2 id="propuesta">Propuesta de Trabajo</h1>
 
 <ul>
-<li><b>Recopilación de datos</b> : Recopile datos de dos fuentes donde una fue coingecko que lo hice a través de los endpoints donde tuve que rellenar 0 y la otra api que use fue la de binance que tuve que obtener los datos por medio de un framework que se hace mucho más fácil su acceso a la información</li>
+<li><b>Recopilación de datos</b> : Recopile datos de dos fuentes donde una fue coingecko que lo hice a través de los endpoints donde tuve que inputar valores faltantes por fecha con 0 y la otra api que use fue la de binance para obtener los datos por medio de un framework que se hace mucho más fácil su acceso a la información</li>
 <li><b>Analisis</b> : Hice un analisis de los datos, buscando en internet, eventos, noticias, desarrollos que podrian haber afectado el precio de las criptomonedas</li>
 <li><b>Otros Factores a tener en cuenta </b> : Las criptomonedas son un mercado super volatil, ya que estas pueden variar dependiendo el contexto global, temas de los que se estan hablando, desarrollo en la tecnologia, una fuerte tendencia en el mercado de las criptos o cualquier otro factor externo</li>
 
